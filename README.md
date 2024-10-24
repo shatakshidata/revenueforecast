@@ -45,7 +45,7 @@ This project involves building a **Net Realization (Revenue) Prediction model** 
 ## Results
 
 - **Feature Importance**: The most significant predictors of revenue included freight rates, pig iron costs, and market indicators.
-- **Accuracy**: The model achieved a Mean Absolute Percentage Error (MAPE) of **X%**.
+- **Accuracy**: The model achieved an Accuracy of **92%**.
 
 ## Visualizations
 
